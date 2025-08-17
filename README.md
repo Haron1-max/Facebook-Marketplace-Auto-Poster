@@ -1,4 +1,4 @@
-✅Facebook Auto-Poster
+✅ Facebook Auto-Poster Bot 
 
 This tool helps you automatically post items or content to Facebook Groups and Marketplace — no login required. It uses your current Facebook browser session, making posting fast and effortless.
 
