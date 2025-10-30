@@ -1,6 +1,7 @@
 ✅ Facebook Marketplace Auto Poster.
 
 Automate your Facebook Marketplace listings and save hours of manual work.
+
 If you sell multiple items — phones, cars, electronics, furniture, or anything else — this tool helps you post faster, reach more buyers, and focus on closing sales instead of copying and pasting.
 
 
