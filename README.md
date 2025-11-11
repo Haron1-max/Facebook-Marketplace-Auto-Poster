@@ -89,4 +89,4 @@ WhatsApp: +254 701 416 017
 
 ✅ Support.
 
-If this project saves you time or helps your business, please give it a ⭐.
+If this project saves you time or helps your business, please give it a ⭐. thanks. 
